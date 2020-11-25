@@ -4,6 +4,7 @@
   "engines": {
     "node": "12.15.0"
   },
+  "private": true,
   "description": "",
   "dependencies": {
     "express": "^4.17.1",
