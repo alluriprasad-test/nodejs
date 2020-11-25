@@ -1,0 +1,13 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "engines": {
+    "node": "12.15.0"
+  },
+  "private": true,
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nconf": "^0.11.0"
+  }
+}
