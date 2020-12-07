@@ -4,7 +4,7 @@
   "engines": {
     "node": "12.15.0"
   },
-  "gitRevision": "v1.0.4",
+  "gitRevision": "v1.0.5",
   "description": "",
   "dependencies": {
     "express": "^4.17.1",
